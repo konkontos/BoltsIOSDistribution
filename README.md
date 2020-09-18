@@ -1,3 +1,3 @@
 # BoltsFramework
 
-A description of this package.
+Bolts iOS framework binary distribution via SPM (Swift 5.3+).
